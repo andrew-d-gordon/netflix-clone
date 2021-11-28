@@ -3,6 +3,8 @@
 
 Project aided and thought up by DataStax as part of a full stack development workshop. More info on them here: https://community.datastax.com/
 
+Currently being hosted via Netlify [here](https://determined-wright-30f1de.netlify.app/).
+
 ![image](./img/ui.png)
 
 ## 🎯 Objectives
